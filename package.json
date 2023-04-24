@@ -1,0 +1,25 @@
+{
+  "name": "coding-ninjas-apis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajAnkur819/coding-ninjas-apis-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajAnkur819/coding-ninjas-apis-node/issues"
+  },
+  "homepage": "https://github.com/rajAnkur819/coding-ninjas-apis-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
